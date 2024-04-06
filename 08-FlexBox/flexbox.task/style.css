@@ -1,0 +1,807 @@
+body{
+    background-color: gray;  
+}
+.container-1{
+    display: flex;
+    background-color: black;
+    width: 650px;
+    border: 3px solid rgb(181, 59, 59); 
+    margin: auto; 
+}
+.box1{
+    font-size: 25px;
+    font-weight:bolder;
+    padding: 20px 15px;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 3px;
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box-4{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color:orangered ;
+   width: 30px;
+}
+
+<!------Flexbox-2 Start------->
+body{
+    background-color: gray;
+}
+.container-2{
+    display: flex;
+    background-color: black;
+    width: 650px;
+    border: 3px solid rgb(181, 59, 59); 
+    margin: auto; 
+    justify-content: center;
+}
+.box2{
+    font-size: 25px;
+    font-weight:bolder;
+    padding: 20px 15px;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 3px;
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box-4{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color:orangered ;
+   width: 30px;
+}
+<!---------Flexbox-3 Start------------->
+
+body{
+    background-color: gray;
+}
+.container-3{
+    display: flex;
+    background-color: black;
+    width: 650px;
+    border: 3px solid rgb(181, 59, 59); 
+    margin: auto; 
+    justify-content: end;
+}
+.box3{
+    font-size: 25px;
+    font-weight:bolder;
+    padding: 20px 15px;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 3px;
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box-4{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color:orangered ;
+   width: 30px;
+}
+
+<!------------Flexbox-4 Start----------->
+body{
+    background-color: gray;  
+}
+.container-4{
+    display: flex;
+    background-color: black;
+    width: 650px;
+    border: 3px solid rgb(181, 59, 59); 
+    margin: auto; 
+    justify-content: space-evenly;
+}
+.box4{
+    font-size: 25px;
+    font-weight:bolder;
+    padding: 20px 15px;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 3px;
+}
+.box-pink{
+    background-color: rgb(156, 36, 76)
+}
+.box-purple{
+background-color: purple;
+}
+.box-blue{
+    background-color:rgb(0, 123, 255);
+}
+.box-yellow{
+    background-color:yellow ;
+}
+.box-gold{
+    background-color:gold ;
+}
+<!--------------Flexbox-5 Start---------->
+
+body{
+    background-color: gray;  
+}
+.container-5{
+    display: flex;
+    background-color: black;
+    width: 650px;
+    border: 3px solid rgb(181, 59, 59); 
+    margin: auto; 
+    justify-content: space-between;
+}
+.box5{
+    font-size: 25px;
+    font-weight:bolder;
+    padding: 20px 15px;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 3px;
+}
+.box-pink{
+    background-color: rgb(156, 36, 76)
+}
+.box-purple{
+background-color: purple;
+}
+.box-blue{
+    background-color:rgb(0, 123, 255);
+}
+.box-yellow{
+    background-color:yellow ;
+}
+.box-gold{
+    background-color:gold;
+}
+
+<!--------------Flexbox-6 Start---------->
+
+body{
+    background-color: gray;  
+}
+.container-6{
+    display: flex;
+    background-color: black;
+    width: 650px;
+    border: 3px solid rgb(181, 59, 59); 
+    margin: auto; 
+    justify-content: space-around;
+}
+.box6{
+    font-size: 25px;
+    font-weight:bolder;
+    padding: 20px 15px;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 3px;
+}
+.box-pink{
+    background-color: rgb(156, 36, 76)
+}
+.box-purple{
+background-color: purple;
+}
+.box-blue{
+    background-color:rgb(0, 123, 255);
+}
+.box-yellow{
+    background-color:yellow;
+}
+.box-gold{
+    background-color:gold;
+}
+
+<!----------------Flexbox-7 Start--------->
+
+body{
+    background-color: gray;
+}
+.container-7{
+    display: flex;
+    background-color: black;
+    width: 250px;
+    border: 3px solid rgb(181, 59, 59); 
+    margin: auto;  
+    
+}
+.box7{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 3px;
+    padding: 90px 4px;
+
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box-4{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color:orangered ;
+    width: 30px;
+}
+<!----------------Flexbox-8 Start-------------
+
+body{
+    background-color: gray;
+}
+.container-8{
+    display: flex;
+    background-color: black;
+    border: 3px solid rgb(181, 59, 59); 
+    width: 270px;
+    height: 250px;
+    margin: auto;      
+}
+
+
+  
+
+.box8{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 1px;
+    margin-bottom: 3px;
+    height: 80px;
+    width: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box-4{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color:orangered ;
+    width: 30px;
+}
+
+<!---------------Flexbox-9 Start------------>
+
+body{
+    background-color: gray;
+}
+.container-9{
+    display: flex;
+    background-color: black;
+    border: 3px solid rgb(181, 59, 59); 
+    width: 250px;
+    height: 250px;
+    margin: auto;      
+}
+.box9{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 1px;
+    margin-bottom: 3px;
+    height: 80px;
+    width: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.box9.box-4{
+    font-size:40px;
+    padding: 0px 15px;
+    
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box4-{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color: orangered;
+    width: 30px;
+}
+<!------------------Flexbox-10 Statrt------->
+
+body{
+    background-color: gray;
+}
+.container-10{
+    display: flex;
+    background-color: black;
+    border: 3px solid rgb(181, 59, 59); 
+    width: 250px;
+    height: 250px;
+    margin: auto;      
+}
+.box10{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 3px;
+    margin-top: 40px;
+    height: 35px;
+    width: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.box10.box-3{
+    font-size: small;
+   height: 20px;
+   }
+   .box10.box-5{
+    font-size:40px;
+    padding: 15px 5px;
+   }
+   .box10.box-7{
+    font-size: small;
+   height: 20px;
+   }
+   .box10.box-8{
+    font-size:40px;
+    padding: 15px 5px;
+   }
+
+ 
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box4-{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color: orangered;
+    width: 30px;
+}
+
+<!-----------------Flexbox-11 Start--------->
+
+body{
+    background-color: gray;
+}
+.container-11{
+    display: flex;
+    background-color: black;
+    border: 3px solid rgb(181, 59, 59); 
+    width: 250px;
+    height: 250px;
+    margin: auto;      
+}
+.box11{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 3px;
+    height: 35px;
+    width: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box4-{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color: orangered;
+    width: 30px;
+}
+
+<!-----------Flexbox-12 Start----------->
+
+body{
+    background-color: gray;
+}
+.container-12{
+    display: flex;
+    background-color: black;
+    border: 3px solid rgb(181, 59, 59); 
+    width: 250px;
+    height: 250px;
+    margin: auto;   
+    align-items: center;   
+}
+.box12{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 3px;
+    height: 35px;
+    width: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box4-{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color:orangered;
+    width: 30px;
+}
+<!-----------------Flexbox-13 Start----------->
+
+body{
+    background-color: gray;
+}
+.container-13{
+    display: flex;
+    background-color: black;
+    border: 3px solid rgb(181, 59, 59); 
+    width: 250px;
+    height: 250px;
+    margin: auto;  
+    align-items: flex-end; 
+
+}
+.box13{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 3px;
+    height: 35px;
+    width: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box4-{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color: orangered;
+    width: 30px;
+}
+<!--------------Flexbox-14 Start-------------->
+
+body{
+    background-color: gray;
+}
+.container-14{
+    display: flex;
+    background-color: black;
+    border: 3px solid rgb(181, 59, 59); 
+    width: 250px;
+    height: 250px;
+    margin: auto;  
+   
+
+}
+.box14{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 3px;
+   padding: 90px 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box14.box-3{
+    height: 2px;
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box4-{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color: orangered;
+    width: 30px;
+}
+<!-------------------Flexbox-15 Start---------->
+
+body{
+    background-color: gray;
+}
+.container-15{
+    display: flex;
+    background-color: black;
+    border: 3px solid rgb(181, 59, 59); 
+    width: 250px;
+    height: 250px;
+    margin: auto;  
+   
+}
+.box15{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 3px;
+   padding: 90px 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box15.box-3{
+   text-align: center;
+}
+.box-1{
+    background-color: rgb(156, 36, 76)
+}
+.box-2{
+background-color: purple;
+}
+.box-3{
+    background-color:rgb(88, 4, 173) ;
+}
+.box4-{
+    background-color:rgb(0, 94, 255) ;
+}
+.box-5{
+    background-color:aqua ;
+}
+.box-6{
+    background-color:yellowgreen ;
+}
+.box-7{
+    background-color:rgb(221, 255, 0) ;
+}
+.box-8{
+    background-color:yellow ;
+}
+.box-9{
+    background-color: goldenrod;
+}
+.box-10{
+    background-color: orangered;
+    width: 30px;
+}

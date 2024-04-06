@@ -1,0 +1,52 @@
+
+.first{
+    padding: 20%;
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/AJQWtBMI3s3oJHLYG65m7ry-M4PvOZzLFbLAe4PwP53w8lbtcQrnAXVMza8fvOgsohvkG5u-cCQOGYJXNFnawBHinfvdUM-wK9Ppw1CUsa-Ekw=w1898-h912);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: x-large;
+    font-weight: bolder;
+    color: whitesmoke;
+    border: 3px solid red;
+}
+#h1{
+    margin-left: 240px;
+    margin-top: 130px;
+}
+.second{
+    padding: 20%;
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/AJQWtBMI3s3oJHLYG65m7ry-M4PvOZzLFbLAe4PwP53w8lbtcQrnAXVMza8fvOgsohvkG5u-cCQOGYJXNFnawBHinfvdUM-wK9Ppw1CUsa-Ekw=w1898-h912);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-size: x-large;
+    font-weight: bolder;
+    color: whitesmoke;
+    border: 3px solid red;
+    opacity: 0.8;   
+}
+.third{
+    padding: 20%;
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/AJQWtBNZMVs3vMujfbH7677byIViI_o6CBKuLl71WNSU8xQzADmExc62POjX2lpXJM09GibvYs8OEnjo_XFeH9BqzQO-sJNsvq3HClBw_eBYvQ=w1898-h912);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-size: x-large;
+    font-weight: bolder;
+    color: whitesmoke;
+    border: 3px solid red;
+}
+.last{
+    padding: 20%;
+    background: linear-gradient(
+        to bottom right,
+        yellow,
+        rgb(255, 47, 0),
+        purple,
+        rgb(10, 10, 176)
+   );   
+}

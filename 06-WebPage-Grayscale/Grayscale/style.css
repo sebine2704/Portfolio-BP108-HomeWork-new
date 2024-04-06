@@ -1,0 +1,172 @@
+
+body{
+    height: auto; 
+}
+.main{
+    height: 200vh;
+    width: 100%;
+    background-image: url("./images/mountain\ img.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    border: 3px solid red;
+    font-family: sans-serif;
+    position: relative;
+    text-align-last: center; 
+    
+      
+}
+.h3{
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    color: rgb(74, 72, 72);
+    position: fixed;
+      
+}
+.href{
+    position: absolute;
+    left: 800px;
+    top: 55px;
+    word-spacing: 50px; 
+    position: fixed;
+    
+}
+.href a{
+    color: rgb(77, 74, 74);
+    text-decoration: none;
+    font-weight: bold; 
+}
+.href a:hover{
+    background-color: rgb(123, 117, 117);
+}
+.h2{
+    position: absolute;
+    bottom: 65%;
+    right: 28%;
+    font-size: 67px;
+    color: rgba(105, 101, 101, 0.832);
+    letter-spacing: 10px;
+}
+.text1{
+    position: absolute;
+    bottom: 65%;
+    right: 40%;
+    color: rgb(132, 132, 132);
+    font-size: large;  
+}
+.button{
+    position: absolute;
+    box-sizing: 20px;
+    top: 35%;
+    left: 40%;
+    border: 1px solid white;
+     
+}
+.h1{
+    position: absolute;
+    top: 105vh;
+    left: 39%;
+    color:rgb(23, 91, 91);
+}
+.text2{
+
+    position: absolute;
+    top: 120vh;
+    left: 220px;
+    font-size: 20px;
+    color: rgb(16, 43, 61);
+}
+.text2 a:hover{
+    background-color: rgb(82, 85, 82);
+}
+.main2{
+    height: 470px;
+    width: 730px;
+    background-image: url("./images/mountain2.webp"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    margin-left: 100px;
+    position: relative;
+    font-family:serif;     
+}
+.shoreline{
+    position: absolute;
+    left: 125vh ;
+    top: 150px ;
+    font-size: 25px;
+    letter-spacing: 4px;   
+}
+.text3{
+    width: 400px;
+    display: flex;
+    position: absolute; 
+    color: darkslategray;
+    top: 220px;
+    left: 110vh;
+    font-size: 18px;
+    letter-spacing: 2px;  
+}
+.main3{
+    height: 140vh;
+    width: 80%;
+    background-color: rgb(63, 63, 63);
+    position: relative;
+    top: 50px;
+    left: 100px;
+    border: 1px solid rgb(248, 243, 243);
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align-last: center;
+    font-size: 17px;
+}
+.box1{
+    height: 510px;
+    width: 635px;
+    border: 1px solid rgb(0, 0, 0);
+    background-image: url("./images/mountain3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.box2{
+    height: 500px;
+    width: 650px;
+    border: 1px solid rgb(0, 0, 0);
+    background-image: url("./images/mountain5.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 50%;
+    left: 46%;
+}
+.misty{
+    position: relative;
+    top: 100px;
+    left: 300px     
+}
+.text4{
+    position: relative;
+    top: 150px;
+}
+.mountains{
+    position: absolute;
+    top: 650px;
+    left: 240px;
+}
+.text5{
+    position: absolute;
+    top: 700px;
+    left: 20px;
+    
+      
+}
+
+
+

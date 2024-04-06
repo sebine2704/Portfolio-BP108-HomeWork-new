@@ -1,0 +1,43 @@
+
+.img{
+    
+    width: 700px;
+    height: 400px;
+    border: 1px solid rgb(97, 89, 89);
+    margin-top: 40px;
+    margin-left: 400px;
+    background-image: url("./img2/photo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.h2{
+   
+    margin-top: 320px;
+    width: 300px;
+    height: 35px;
+    border: 2px;
+    background-color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    opacity: 0.7;
+    
+}
+.p1{
+    margin-top: 60px;
+    color: rgb(43, 39, 39);
+    font-family: sans-serif;
+    font-weight: bold;
+    opacity: 0.6;
+}
+.p2{
+    font-family: sans-serif;
+    color: rgb(29, 25, 25);
+    font-size: larger;
+    font-weight: bold;
+    opacity: 0.7;
+}
+
+    

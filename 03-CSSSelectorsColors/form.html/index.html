@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="Name">Name:</label>
+        <input required maxlength="5" type="text" placeholder="write Your Name"> <br>
+        <label for="Fav number">Fav number:</label>
+        <input type="number" placeholder="Write Your number"><br>
+        <label for="Email">Email:</label> 
+        <input type="email" placeholder="Write Your Email"> <br>
+        <label for="Password"> Password:</label>
+        <input type="password" placeholder="Write Your Password"> <br>
+        <label for="Gender">Gender:</label>
+        <input type="radio" id="Gender" name="Gender">
+        <label for="Male">Male:</label>
+        <input type="radio" id="Male" name="Gender">
+        <label for="Female">Female</label> <br>
+        <label for="Countries">Country:</label>
+        <select name="Countries" id="Countries">
+            <option value="USA">USA</option>
+            <option value="AZE">AZE</option>
+            <option value="RUS">RUS</option>
+        </select> <br>
+        
+       <p><label for="Msj">Message:</label></p>
+        <textarea name="Message" id="Msj" cols="80" rows="5"></textarea>
+        <label for="letter">Subscribe to newsletter:</label>
+        <input type="checkbox" id="letter" name="Subscribe to newsletter"> <br>
+        <label for="file">Upload file:</label>
+        <input type="file" multiple required> <br>
+        <label for="birthdate">Birthdate:</label>
+        <input type="date"> <br>
+        <label for="color">Favorite Color:</label>
+        <input type="color"> <br>
+        <label for="website">Personal Website:</label>
+        <input type="url" required id="website"> <br>
+        <input type="submit">
+        <input type="reset">
+
+        
+       
+
+    </form>
+    
+</body>
+</html>
