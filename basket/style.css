@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(130, 166, 207);
+}
+.basket_wrapper {
+  position: relative;
+
+  svg {
+    width: 40px;
+  }
+
+  .basket_counter {
+    position: absolute;
+    padding: 0 8px;
+    background-color: red;
+    border-radius: 50%;
+    top: -10px;
+    right: -10px;
+    opacity: 0;
+  }
+
+  .basket_counter.shown {
+    opacity: 1;
+  }
+}
+
+.card {
+  img {
+    height: 200px;
+    object-fit: contain;
+    
+  }
+
+  .card-body {
+    height: 150px;
+  }
+}
+.card-text{
+  color: orangered;
+  font-weight: bolder;
+  font-size: 20px;
+
+}
+.box{
+  display: flex;
+}
+.buttonbox{
+  display: flex;
+  gap: 20px;
+ 
+}
+.val{
+ margin-top: 35px;
+}
+.buttonbox button{
+  width: 25px;
+  height: 40px;
+  background-color: rgb(237, 217, 217);
+  margin-top: 30px;
+}
+.card-text{
+  margin-top: 30px;
+}
+.btn{
+  width: 100px;
+  background-color: red;
+  border-radius: 10px;
+}
+.card{
+  margin-top: 30px;
+}
