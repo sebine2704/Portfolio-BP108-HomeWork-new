@@ -1,0 +1,58 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    background-color: rgb(51, 133, 192);
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.light{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: white;
+    
+}
+.container{
+    max-width: 1440px;
+}
+.top{
+    height: 60px;
+}
+.searchbtn{
+    margin-left: 350px;
+}
+.header{
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: greenyellow;
+}
+.input{
+    border: none;
+    outline: none;
+}
+.searchbtn{
+    width: 100px;
+    background-color: greenyellow;
+}
+.image{
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.card{
+    margin: auto;
+    margin-top:30px ;
+    
+}
+
+
