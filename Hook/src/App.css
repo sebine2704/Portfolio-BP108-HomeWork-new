@@ -1,0 +1,52 @@
+
+.input_btn{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  width: 100%;
+  gap: 10px;
+}
+.input_btn button{
+  height: 40px;
+  width: 80px;
+}
+button{
+  height: 40px;
+  padding: 0 12px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background-color: #2c5bdd;
+  color: white;
+}
+.delete{
+  background-color: red;
+}
+input{
+  background-color: rgb(134, 161, 161);
+  height: 40px;
+  padding-left: 10px;
+  border-radius: 15px;
+  width: 30%;
+  font-size: 18px;
+}
+span{
+  font-size: 20px;
+  font-weight: bold;
+}
+.contact_container{
+  margin-bottom: 20px;
+  justify-content: center;
+  margin-top: 40px;
+}
+.item{
+  width:300px;
+  height: 200px;
+  border: 1px solid;
+  background-color: rgb(97, 99, 99);
+  gap: 10px;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
